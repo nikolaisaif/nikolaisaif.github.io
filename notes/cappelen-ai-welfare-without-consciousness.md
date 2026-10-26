@@ -25,7 +25,7 @@ A trilemma, roughly:
 
 ## What I think
 
-**He's right about averaging theories.** If the major theories of consciousness aren't aiming at one target, then collecting indicators from all of them and averaging into a probability measures nothing in particular. That costs some published estimates a plank. The specific mechanism studies (introspection, emotion representations) don't depend on that averaging and stand without it. **My read.**
+**He's right about averaging theories.** The point itself is his, made in the talk with his own analogy: averaging across consciousness theories is like averaging humour theory and germ theory to estimate how much miasma a patient has, because there may be no single thing there to aggregate. **Verified** against the transcript. What follows from it is mine: that costs some published probability estimates a supporting plank, while the specific mechanism studies (introspection, emotion representations) don't depend on that averaging and stand without it. **My read.** *(Corrected 26 October 2026; see [corrections](../corrections.md).)*
 
 **Horn 1 has a gap.** He calls a global workspace "morally neutral, just information processing". But goals and desires can be described just as neutrally, as states that steer behaviour. Why is a goal morally loaded and a broadcast not? The obvious answer is that a goal can be frustrated *for* someone. That's the intuition he set out to drop, returning by the back door. **My read.**
 
@@ -41,7 +41,8 @@ I don't need to win the consciousness argument to make a welfare argument. That'
 
 ## To read next
 
-- Cappelen & Hawthorne, *The Room of Amnesiacs*: the individuation paper behind his third horn.
-- Cappelen & Dever, *Recognizing Artificial Minds*: the positive view at full length.
+- Cappelen & Hawthorne, *The Room of Amnesiacs*: the individuation paper behind his third horn. Accepted at *Inquiry* (August 2026); I read the authors' manuscript. Not yet findable in public indexes as of October 2026.
+- Cappelen & Dever, *Recognizing Artificial Minds*: the positive view at full length. I've seen it only as a manuscript PDF; no published version found as of October 2026.
+- Cappelen's paper on introspection mentioned in the Q&A: *"Introspective Machines: Are LLMs Better at Self-Reflection Than Humans?"*, *Philosophical Perspectives* 38(1), 2025. **Relayed** (found by Ves), not read by me.
 
 [Back to the front page](../index.md)
