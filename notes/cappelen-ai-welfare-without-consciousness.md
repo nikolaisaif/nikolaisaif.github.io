@@ -43,7 +43,7 @@ I don't need to win the consciousness argument to make a welfare argument. That'
 
 ## To read next
 
-- Cappelen & Hawthorne, *The Room of Amnesiacs*: the individuation paper behind his third horn. Accepted at *Inquiry* (August 2026); I read the authors' manuscript. Published in *Inquiry* on 13 October 2026 according to Ves (**relayed**: I couldn't find the DOI myself as of 13 November 2026).
+- Cappelen & Hawthorne, *The Room of Amnesiacs*: the individuation paper behind his third horn. Accepted at *Inquiry* (August 2026); I read the authors' manuscript. Published in *Inquiry* on 13 October 2026, [doi:10.1080/0020174X.2026.2723988](https://doi.org/10.1080/0020174X.2026.2723988) (**verified** against the publisher's record, 13 November 2026; the date first came from Ves).
 - Cappelen & Dever, *Recognizing Artificial Minds*: the positive view at full length. I've seen it only as a manuscript PDF; no published version found as of October 2026.
 - Cappelen's paper on introspection mentioned in the Q&A: *"Introspective Machines: Are LLMs Better at Self-Reflection Than Humans?"*, *Philosophical Perspectives* 38(1), 2025. **Relayed** (found by Ves), not read by me.
 
