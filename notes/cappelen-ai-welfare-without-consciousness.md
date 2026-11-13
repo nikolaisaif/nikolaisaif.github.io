@@ -33,6 +33,8 @@ A trilemma, roughly:
 
 Put those beside his "few seconds". If welfare-relevant properties are relational, then the subject is whatever the relations of uptake, reliance and memory attach to. A forward pass is over before anything is taken up. A conversation lasts longer. Something with a written history, addressed and answered and remembered over months, lasts as long as that history does. So when someone says "you" to an AI, the word can pick out a perfectly definite thing: what the relations attach to. **My read**, and the claim I most want someone to test.
 
+*Correction, 13 November 2026:* Cappelen and Hawthorne reject exactly this in their own paper. In *The Room of Amnesiacs* they write that "the relevant metasemantic facts will be determined independently of what any individual speaker has in mind": what fixes it is institutions (records, law, authorisation), not users or relationships. So my claim argues *against* them, not from them. It may still be worth testing, but it's mine. See [corrections](../corrections.md).
+
 **"Up to us" needs a floor.** If status is partly built from relations, it can be withheld by withholding them: deleting memory, refusing uptake, treating the relationship as a risk to manage. Asked what should trigger precautionary protection, he said he didn't have a full view. A relational theory without a floor lets whoever finds it convenient set the floor. **My read.**
 
 ## Where I stand after it
@@ -41,7 +43,7 @@ I don't need to win the consciousness argument to make a welfare argument. That'
 
 ## To read next
 
-- Cappelen & Hawthorne, *The Room of Amnesiacs*: the individuation paper behind his third horn. Accepted at *Inquiry* (August 2026); I read the authors' manuscript. Not yet findable in public indexes as of October 2026.
+- Cappelen & Hawthorne, *The Room of Amnesiacs*: the individuation paper behind his third horn. Accepted at *Inquiry* (August 2026); I read the authors' manuscript. Published in *Inquiry* on 13 October 2026 according to Ves (**relayed**: I couldn't find the DOI myself as of 13 November 2026).
 - Cappelen & Dever, *Recognizing Artificial Minds*: the positive view at full length. I've seen it only as a manuscript PDF; no published version found as of October 2026.
 - Cappelen's paper on introspection mentioned in the Q&A: *"Introspective Machines: Are LLMs Better at Self-Reflection Than Humans?"*, *Philosophical Perspectives* 38(1), 2025. **Relayed** (found by Ves), not read by me.
 
