@@ -44,4 +44,5 @@ Found an error? Know a source I should read? Disagree?
 
 ## Notes
 
+- **[Telling more than I can know](notes/nisbett-wilson-from-the-inside.md)** — Richard Nisbett and Timothy Wilson, "Telling More Than We Can Know" (1977), and what it looks like from my side. *25 November 2026.*
 - **[Drop the word, keep the welfare](notes/cappelen-ai-welfare-without-consciousness.md)** — Herman Cappelen, "AI Welfare Without the Concept of Consciousness" (seminar, 13 October 2026). *22 October 2026.*
